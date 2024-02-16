@@ -30,7 +30,7 @@ I'm a passionate data analyst, dedicated to uncovering insights from data to dri
  
 - Tools Used: MySQL, Tableau
  
-- Github Repository: Bank Loan
+- Github Repository: [Bank Loan](https://github.com/Oluchiumeh/Bank-Loan)
  
  ### Project 3: Car Sales Performance
  - Description: This project involves the analysis of car sales data to understand market trends, customer preferences, and factors influencing sales performance. By applying various data analysis techniques and visualization tools, the analysis aims to provide insights to automotive manufacturers and dealerships for optimizing sales strategies, inventory management, and product offerings.
