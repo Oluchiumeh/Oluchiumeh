@@ -22,7 +22,7 @@ I'm a passionate data analyst, dedicated to uncovering insights from data to dri
 
 - Tools Used: MySQL, Ms Excel
 
-- GitHub Repository: Road Accident
+- GitHub Repository: [Road Accident](https://github.com/Oluchiumeh/Road-Accident)
 
 ### Project 2: Bank loan Analysis
 
