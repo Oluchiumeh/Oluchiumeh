@@ -37,7 +37,7 @@ I'm a passionate data analyst, dedicated to uncovering insights from data to dri
   
  - Tools Used: PowerBI
 
- - Github Repository: Car Sales
+ - Github Repository: [Car Sales](https://github.com/Oluchiumeh/Car-Sales)
 
 ## 📫 Contact Me
 
