@@ -1,63 +1,83 @@
-# Hello, I'm Oluchi Umeh 👋
+# 👋 Hi there! I'm Joy Oluchi Umeh
 
-I'm a passionate data analyst, dedicated to uncovering insights from data to drive informed decision-making. I specialize in exploratory data analysis, data visualization, and statistical analysis.
+I'm a **Data Analyst** passionate about transforming raw data into actionable insights that drive decisions. I specialize in SQL, Excel, Power BI, and Python to build dynamic dashboards, automate analysis, and uncover trends that matter.
 
-## 🔧Skills
+Growing in my data journey by building real-world projects across e-commerce, finance, transportation, and more.
 
-- Programming Languages: Python, SQL
+---
 
-- Data Analysis Tools: Excel, Pandas, NumPy, Jupyter Notebook
+## My Recent Projects
 
-- Data Visualization: Matplotlib, PowerBI, Tableau
+### Blinkit Sales & Customer Analysis  
+**Tools Used**: SQL, Python, Matplotlib, Seaborn  
 
-- Database Management: MySQL
+**Description**:
+This project focuses on analyzing sales performance, customer satisfaction, and inventory distribution for Blinkit (an Indian quick commerce company). I worked with structured datasets to extract valuable insights using SQL and created compelling visualizations using Python. I used advanced SQL queries involving JOIN, CASE, and aggregation functions to uncover patterns and segment performance by outlet, item type, and content.
 
-- Statistical Analysis: Hypothesis testing, Time series analysis
+**Business Impact**:
+Identified high-performing products, customer retention opportunities, and regional trends to help optimize sales strategies.
 
-## 📊 Projects
+**Key Highlights**:
+- Delivered KPI insights like Total Sales, Avg. Rating, and Sales by Item Type.
+- Identified optimization opportunities by location and item content.
+- Created impactful visualizations using Seaborn and Matplotlib.  
+🔗 [View Project Repository](https://github.com/Oluchiumeh/BlinkIT-Analysis)
 
-### Project 1: Road Accident Analysis
+_Alternate SQL Project: Indian General Election -  A comprehensive SQL analysis of election outcomes using JOIN, CASE, and aggregation functions to uncover winning patterns, voter turnout trends, and party performance across states._ 🔗 [View project Repository](https://github.com/Oluchiumeh/Indian-General-Election)
 
-- Description: This project aims to analyze road accident data to identify patterns, trends, and contributing factors associated with traffic accidents. Leveraging various data analysis techniques like descriptive analysis, the analysis seeks to provide insights to improve road safety measures and reduce the frequency and severity of accidents.
+---
 
-- Tools Used: MySQL, Ms Excel
+### Personal Finance Tracker (Excel)  
+**Tools Used**: Microsoft Excel, Power Query 
 
-- GitHub Repository: [Road Accident](https://github.com/Oluchiumeh/Road-Accident)
+**Description**:
+This is a dynamic financial dashboard built in Excel to help individuals track their income, expenses, and savings in one place. I used Power Query to clean and transform raw transaction data and Excel formulas for budget automation. Slicers and drop-down filters enhance user interactivity.
 
-### Project 2: Bank loan Analysis
+**Business Impact**:
+Empowers users to gain control of their personal finances, make informed spending decisions, and set realistic financial goals. Ideal for personal budgeting and financial planning.
 
-- Description: This project focuses on analyzing loan data from a bank to derive insights into loan performance, identify loan purpose, monthly trend, and improve lending strategies. By leveraging various data analysis techniques, the analysis aims to assist the bank in making informed decisions regarding loan approval, and portfolio management.
- 
-- Tools Used: MySQL, Tableau
- 
-- Github Repository: [Bank Loan](https://github.com/Oluchiumeh/Bank-Loan)
- 
- ### Project 3: Car Sales Performance
- - Description: This project involves the analysis of car sales data to understand market trends, customer preferences, and factors influencing sales performance. By applying various data analysis techniques and visualization tools, the analysis aims to provide insights to automotive manufacturers and dealerships for optimizing sales strategies, inventory management, and product offerings.
-  
- - Tools Used: PowerBI
+**Key Highlights**:
+- Dynamic visuals for Expense Breakdown and Savings Trends.
+- Slicers for time-period selection.
+- Used Excel formulas and Power Query for smart data cleaning and modeling.  
+🔗 [View Project Repository](https://github.com/Oluchiumeh/Personal-Finance-Tracker)
 
- - Github Repository: [Car Sales](https://github.com/Oluchiumeh/Car-Sales)
+_Alternate Excel Project: F&P Product Analysis – A product-level sales performance dashboard built in Excel, featuring dynamic filters, data modeling, and insights into top-selling products and inventory trends._ 🔗 [View Project Repository](https://github.com/Oluchiumeh/FNP-Analysis)
 
-## 📫 Contact Me
+---
 
-- Linkedin: www.linkedin.com/in/joy-umeh-8296b6275
+### Shopify Sales & Customer Funnel (Power BI)  
+**Tools Used**: Power BI, Power Query, DAX  
 
-- Email: oluchiumeh326@gmail.com
-    
+**Description**:
+This Power BI dashboard analyzes customer purchase behavior and transaction trends from a simulated Shopify dataset. It includes insights into regional sales performance, product categories, payment methods, and customer loyalty using key funnel metrics like Average Order Value, Repeat Rate, and Purchase Frequency.
 
+**Business Impact**:
+Provides a visual and analytical breakdown of Shopify's customer funnel—helping stakeholders identify high-value customers, optimize product offerings, and boost profitability through data-backed strategies.
 
-<!--
-**Oluchiumeh/Oluchiumeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Key Highlights**:
+- Analyzed KPIs: Total Sales, Repeat Rate, Average Order Value.
+- Mapped sales by location and payment gateways.
+- Modeled relationships between customer, product, and transaction data.  
+🔗 [View Project Repository](https://github.com/Oluchiumeh/Shopify-Sales)
 
-Here are some ideas to get you started:
+_Alternate Power BI Project: UberTrip Dashboard - Time and Location-based trip analysis using booking data._ 🔗 [View UberTrip Dashboard](https://github.com/Oluchiumeh/Uber-Trip-Analysis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Skills
+- **Languages**: SQL, Python (Pandas, Seaborn, Numpy, Matplotlib)
+- **Data Tools**: Excel, Power Query, Power BI, Tableau
+- **Database**: SQL
+- **Concepts**: Data Cleaning, KPI Reporting, Data Modeling, Visualization, EDA
+
+---
+
+## 📬 Let's Connect!
+
+- [LinkedIn](www.linkedin.com/in/joy-oluchi-umeh)
+- [Email Me](mailto:your.oluchiumeh326@gmail.com)
+
+---
+
+⭐️ _I'm open to data analyst roles, freelance projects, and collaborations. Feel free to reach out!_    
